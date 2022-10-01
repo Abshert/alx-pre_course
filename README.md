@@ -1,1 +1,1 @@
-My first readme updated
+A Chemical Engineer & potential Software Engineer
